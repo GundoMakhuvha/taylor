@@ -1,0 +1,11 @@
+node_modules
+.next
+.env
+.env.local
+.env*.local
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+companion/config.ini
+companion/model/
+__pycache__/
